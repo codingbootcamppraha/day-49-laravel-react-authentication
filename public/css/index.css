@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #fff;
+  height: 100vh;
+  position: relative;
+}
+
+#root {
+  height: 100%;
+  overflow: hidden;
+}
+
+.layout {
+  width: 100%;
+  padding: 0 30px;
+  height: 100%;
+  overflow-y: auto;
+}
+
+/*# sourceMappingURL=index.css.map*/
